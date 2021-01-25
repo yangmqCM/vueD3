@@ -1,0 +1,363 @@
+[ 
+    {
+        "value": 2000000000,
+        "name": "2020GMV",
+        "path": "2020",
+        "children": [
+            {
+                "value": 100000000,
+                "name": "Q1",
+                "path": "2020/Q1GMV",
+                "children": [
+                    {
+                        "value": 20000000,
+                        "name": "1月",
+                        "path": "2020/Q1/1月",
+                        "children": [
+                            {
+                                "value": 5000000,
+                                "name": "1周",
+                                "path": "2020/Q1/1月/1周"
+                            },
+                            {
+                                "value": 4000000,
+                                "name": "2周",
+                                "path": "2020/Q1/1月/2周"
+                            },
+                            {
+                                "value": 6000000,
+                                "name": "3周",
+                                "path": "2020/Q1/1月/3周"
+                            },
+                            {
+                                "value": 5000000,
+                                "name": "4周",
+                                "path": "2020/Q1/1月/4周"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 60000000,
+                        "name": "2月",
+                        "path": "2020/Q1/2月",
+                        "children": [
+                            {
+                                "value": 6000000,
+                                "name": "5周",
+                                "path": "2020/Q1/2月/5周"
+                            },
+                            {
+                                "value": 1000000,
+                                "name": "6周",
+                                "path": "2020/Q1/2月/6周"
+                            },
+                            {
+                                "value": 9000000,
+                                "name": "7周",
+                                "path": "2020/Q1/2月/7周"
+                            },
+                            {
+                                "value": 44000000,
+                                "name": "8周",
+                                "path": "2020/Q1/2月/8周"
+                            }
+                        ]
+                    },
+                    {
+                        "value":20000000,
+                        "name": "3月",
+                        "path": "2020/Q1/3月",
+                        "children": [
+                            {
+                                "value": 4000000,
+                                "name": "9周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 6000000,
+                                "name": "10周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 2000000,
+                                "name": "11周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value":8000000,
+                                "name": "12周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "value": 1000000000,
+                "name": "Q2",
+                "path": "2020/Q2GMV",
+                "children": [
+                    {
+                        "value":100000000,
+                        "name": "4月",
+                        "path": "2020/Q2/4月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "13周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "14周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "15周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "16周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    },
+                    {
+                        "value":800000000,
+                        "name": "5月",
+                        "path": "2020/Q2/5月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "17周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "18周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "19周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "20周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle",
+                                "link" :"https://mgr.xshoppy.shop/login",
+                                "target":"blank"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 100000000,
+                        "name": "6月",
+                        "path": "2020/Q2/6月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "21周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 40000000,
+                                "name": "22周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 60000000,
+                                "name": "23周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 80000000,
+                                "name": "24周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "value": 500000000,
+                "name": "Q3",
+                "path": "2020/Q3GMV",
+                "children": [
+                    {
+                        "value": 50000000,
+                        "name": "7月",
+                        "path": "2020/Q3/7月",
+                        "children": [
+                            {
+                                "value": 10000000,
+                                "name": "25周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "26周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 10000000,
+                                "name": "27周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 10000000,
+                                "name": "28周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 50000000,
+                        "name": "8月",
+                        "path": "2020/Q3/8月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "29周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 10000000,
+                                "name": "30周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 8000000,
+                                "name": "31周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 12000000,
+                                "name": "32周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 450000000,
+                        "name": "9月",
+                        "path": "2020/Q3/9月",
+                        "children": [
+                            {
+                                "value": 80000000,
+                                "name": "33周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 50000000,
+                                "name": "34周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 200000000,
+                                "name": "35周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 120000000,
+                                "name": "36周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "value": 400000000,
+                "name": "Q4",
+                "path": "2020/Q4GMV",
+                "children": [
+                    {
+                        "value": 100000000,
+                        "name": "10月",
+                        "path": "2020/Q4/10月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "37周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 40000000,
+                                "name": "38周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "39周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 20000000,
+                                "name": "40周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 100000000,
+                        "name": "11月",
+                        "path": "2020/Q4/11月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "41周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 40000000,
+                                "name": "42周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 10000000,
+                                "name": "43周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 30000000,
+                                "name": "44周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    },
+                    {
+                        "value": 200000000,
+                        "name": "12月",
+                        "path": "2020/Q4/12月",
+                        "children": [
+                            {
+                                "value": 20000000,
+                                "name": "45周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 80000000,
+                                "name": "46周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 30000000,
+                                "name": "47周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            },
+                            {
+                                "value": 70000000,
+                                "name": "48周",
+                                "path": "Accounts/Access/DefaultAccessPlugin.bundle"
+                            }
+                        ]
+                    }
+                
+                ]
+            }]
+    }
+]
